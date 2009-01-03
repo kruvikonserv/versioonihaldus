@@ -6,3 +6,4 @@ Ants
 uus
 vana
 proov
+Pets
