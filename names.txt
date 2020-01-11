@@ -2,7 +2,6 @@ Elvis
 Mina
 Teised
 Ants
-.
 uus
 vana
 proov
